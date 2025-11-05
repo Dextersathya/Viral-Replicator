@@ -1,4 +1,3 @@
-Here’s a professional, well-formatted **README.md** file for your LinkedIn Auto Poster script 👇
 
 ---
 
@@ -164,4 +163,4 @@ Python Developer | AI & ML Enthusiast
 
 ---
 
-Would you like me to include **a section with setup commands for Windows users** (to ensure Chrome debugging works perfectly every time you run it)?
+

@@ -1,0 +1,55 @@
+2025/09/14-09:49:48.072 2cec Reusing MANIFEST C:\Users\surya\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_neetcode.io_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/14-09:49:48.074 2cec Recovering log #68
+2025/09/14-09:49:48.074 2cec Reusing old log C:\Users\surya\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_neetcode.io_0.indexeddb.leveldb/000068.log 
+2025/09/14-09:49:48.099 2cec Level-0 table #74: started
+2025/09/14-09:49:48.102 2cec Level-0 table #74: 7948 bytes OK
+2025/09/14-09:49:48.103 2cec Delete type=0 #68
+2025/09/14-09:49:48.104 2cec Manual compaction at level-0 from '\x00\x19\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/14-09:49:48.125 4f90 Level-0 table #76: started
+2025/09/14-09:49:48.127 4f90 Level-0 table #76: 2036 bytes OK
+2025/09/14-09:49:48.129 4f90 Delete type=0 #73
+2025/09/14-09:49:48.129 4f90 Manual compaction at level-0 from '\x00\x1a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1a\x00\x00\x05' @ 1416 : 1
+2025/09/14-09:49:48.129 4f90 Compacting 1@0 + 1@1 files
+2025/09/14-09:49:48.131 4f90 Generated table #77@0: 37 keys, 4261 bytes
+2025/09/14-09:49:48.131 4f90 Compacted 1@0 + 1@1 files => 4261 bytes
+2025/09/14-09:49:48.132 4f90 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/14-09:49:48.132 4f90 Delete type=2 #76
+2025/09/14-09:49:48.133 2898 Manual compaction at level-0 from '\x00\x1a\x00\x00\x05' @ 1416 : 1 .. '\x00\x1b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/14-09:50:01.157 2cec Level-0 table #79: started
+2025/09/14-09:50:01.160 2cec Level-0 table #79: 13606 bytes OK
+2025/09/14-09:50:01.162 2cec Delete type=2 #74
+2025/09/14-09:50:01.162 2cec Delete type=0 #75
+2025/09/14-09:50:01.162 2cec Manual compaction at level-0 from '\x00\x1b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1b\x00\x00\x05' @ 1550 : 1
+2025/09/14-09:50:01.163 2cec Compacting 1@0 + 1@1 files
+2025/09/14-09:50:01.164 2cec Generated table #80@0: 80 keys, 5590 bytes
+2025/09/14-09:50:01.164 2cec Compacted 1@0 + 1@1 files => 5590 bytes
+2025/09/14-09:50:01.165 2cec compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/14-09:50:01.166 2cec Delete type=2 #79
+2025/09/14-09:50:01.166 2cec Manual compaction at level-0 from '\x00\x1b\x00\x00\x05' @ 1550 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/14-09:51:20.138 2898 Compacting 1@1 + 1@2 files
+2025/09/14-09:51:20.158 2898 Generated table #81@1: 54 keys, 5174 bytes
+2025/09/14-09:51:20.158 2898 Compacted 1@1 + 1@2 files => 5174 bytes
+2025/09/14-09:51:20.179 2898 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/14-09:51:20.180 2898 Delete type=2 #71
+2025/09/14-09:51:20.180 2898 Delete type=2 #77
+2025/09/14-09:51:20.180 2898 Delete type=2 #80
+2025/09/14-10:21:49.302 4f90 Level-0 table #83: started
+2025/09/14-10:21:49.306 4f90 Level-0 table #83: 649 bytes OK
+2025/09/14-10:21:49.308 4f90 Delete type=0 #78
+2025/09/14-10:21:49.308 2cec Manual compaction at level-0 from '\x00\x1c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/14-10:25:06.533 2898 Compacting 1@1 + 1@2 files
+2025/09/14-10:25:06.548 2898 Generated table #84@1: 54 keys, 5176 bytes
+2025/09/14-10:25:06.548 2898 Compacted 1@1 + 1@2 files => 5176 bytes
+2025/09/14-10:25:06.549 2898 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/14-10:25:06.564 2898 Delete type=2 #81
+2025/09/14-10:25:06.564 2898 Delete type=2 #83
+2025/09/14-11:49:33.975 4f90 Level-0 table #86: started
+2025/09/14-11:49:33.978 4f90 Level-0 table #86: 6080 bytes OK
+2025/09/14-11:49:33.979 4f90 Delete type=0 #82
+2025/09/14-11:49:33.979 2cec Manual compaction at level-0 from '\x00\x1d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/14-11:50:56.934 2898 Compacting 1@1 + 1@2 files
+2025/09/14-11:50:56.936 2898 Generated table #87@1: 54 keys, 5175 bytes
+2025/09/14-11:50:56.936 2898 Compacted 1@1 + 1@2 files => 5175 bytes
+2025/09/14-11:50:56.937 2898 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/14-11:50:56.937 2898 Delete type=2 #84
+2025/09/14-11:50:56.937 2898 Delete type=2 #86

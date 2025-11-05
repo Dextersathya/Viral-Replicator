@@ -1,0 +1,12 @@
+2025/10/21-16:42:24.899 4430 Reusing MANIFEST C:\Users\surya\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/21-16:42:24.900 4430 Recovering log #133
+2025/10/21-16:42:24.901 4430 Reusing old log C:\Users\surya\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/000133.log 
+2025/10/21-16:42:29.451 4430 Compacting 1@1 + 1@2 files
+2025/10/21-16:42:29.460 4430 Generated table #136@1: 85 keys, 243826 bytes
+2025/10/21-16:42:29.460 4430 Compacted 1@1 + 1@2 files => 243826 bytes
+2025/10/21-16:42:29.461 4430 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/10/21-16:42:29.462 4430 Delete type=2 #132
+2025/10/21-16:42:29.462 4430 Delete type=2 #134
+2025/10/21-16:42:43.650 3134 Level-0 table #138: started
+2025/10/21-16:42:43.677 3134 Level-0 table #138: 3227885 bytes OK
+2025/10/21-16:42:43.680 3134 Delete type=0 #133

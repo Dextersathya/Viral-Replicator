@@ -1,0 +1,20 @@
+2025/09/26-14:39:10.638 1320 Creating DB C:\Users\surya\AppData\Local\Google\Chrome\User Data\Profile 3\WebStorage\109\IndexedDB\indexeddb.leveldb since it was missing.
+2025/09/26-14:39:10.645 1320 Reusing MANIFEST C:\Users\surya\AppData\Local\Google\Chrome\User Data\Profile 3\WebStorage\109\IndexedDB\indexeddb.leveldb/MANIFEST-000001
+2025/09/26-14:39:10.694 481c Level-0 table #5: started
+2025/09/26-14:39:10.697 481c Level-0 table #5: 1177 bytes OK
+2025/09/26-14:39:10.699 481c Delete type=0 #3
+2025/09/26-14:39:10.700 1320 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/26-14:39:54.136 117c Level-0 table #7: started
+2025/09/26-14:39:54.139 117c Level-0 table #7: 668 bytes OK
+2025/09/26-14:39:54.141 117c Delete type=0 #4
+2025/09/26-14:39:54.141 1320 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/26-14:40:39.577 117c Level-0 table #9: started
+2025/09/26-14:40:39.580 117c Level-0 table #9: 666 bytes OK
+2025/09/26-14:40:39.582 117c Delete type=0 #6
+2025/09/26-14:40:39.582 1320 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\x05' @ 85 : 1
+2025/09/26-14:40:39.582 1320 Compacting 1@0 + 1@1 files
+2025/09/26-14:40:39.584 1320 Generated table #10@0: 13 keys, 689 bytes
+2025/09/26-14:40:39.584 1320 Compacted 1@0 + 1@1 files => 689 bytes
+2025/09/26-14:40:39.585 1320 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/26-14:40:39.586 1320 Delete type=2 #9
+2025/09/26-14:40:39.586 1320 Manual compaction at level-0 from '\x00\x04\x00\x00\x05' @ 85 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,20 @@
+2025/09/12-13:03:14.392 36c0 Creating DB C:\Users\surya\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_universe.roboflow.com_0.indexeddb.leveldb since it was missing.
+2025/09/12-13:03:14.396 36c0 Reusing MANIFEST C:\Users\surya\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_universe.roboflow.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/12-13:03:14.943 dd0 Level-0 table #5: started
+2025/09/12-13:03:14.946 dd0 Level-0 table #5: 1464 bytes OK
+2025/09/12-13:03:14.948 dd0 Delete type=0 #3
+2025/09/12-13:03:14.949 36c0 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/12-13:03:21.618 dd0 Level-0 table #7: started
+2025/09/12-13:03:21.620 dd0 Level-0 table #7: 8494 bytes OK
+2025/09/12-13:03:21.622 dd0 Delete type=0 #4
+2025/09/12-13:03:21.622 36c0 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/12-13:03:26.427 dd0 Level-0 table #9: started
+2025/09/12-13:03:26.430 dd0 Level-0 table #9: 8081 bytes OK
+2025/09/12-13:03:26.432 dd0 Delete type=0 #6
+2025/09/12-13:03:26.432 36c0 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 215 : 1
+2025/09/12-13:03:26.432 36c0 Compacting 1@0 + 1@1 files
+2025/09/12-13:03:26.437 36c0 Generated table #10@0: 67 keys, 4777 bytes
+2025/09/12-13:03:26.437 36c0 Compacted 1@0 + 1@1 files => 4777 bytes
+2025/09/12-13:03:26.438 36c0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/12-13:03:26.439 36c0 Delete type=2 #9
+2025/09/12-13:03:26.439 36c0 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 215 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

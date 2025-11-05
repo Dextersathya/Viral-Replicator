@@ -1,0 +1,59 @@
+{
+   "action": {
+      "default_icon": "icons/icon128x128.png",
+      "default_popup": "src/layouts/popup.html"
+   },
+   "background": {
+      "service_worker": "src/js/serviceWorker.js",
+      "type": "module"
+   },
+   "commands": {
+      "AddSite": {
+         "description": "Toggle current site",
+         "suggested_key": {
+            "default": "Alt+Shift+A"
+         }
+      },
+      "darkModeToggle": {
+         "description": "Dark Mode On/Off",
+         "suggested_key": {
+            "default": "Alt+Shift+D",
+            "mac": "Alt+Shift+D",
+            "windows": "Alt+Shift+D"
+         }
+      },
+      "nightModeToggle": {
+         "description": "Night Shift On/Off",
+         "suggested_key": {
+            "default": "Alt+Shift+S",
+            "mac": "Alt+Shift+S",
+            "windows": "Alt+Shift+S"
+         }
+      },
+      "toggle": {
+         "description": "Extension On/Off",
+         "suggested_key": {
+            "default": "Alt+Shift+E",
+            "mac": "Alt+Shift+E",
+            "windows": "Alt+Shift+E"
+         }
+      }
+   },
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'"
+   },
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "icons/icon128x128.png",
+      "16": "icons/icon16x16.png",
+      "48": "icons/icon48x48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqvemYSiiUhiI40buoud7R5eVVXV2ys8q6j0UrihGRiNh393DCQ2bYksZ4B00/ROgnosKFx3KGJI6796sWJvsvIPPCGAg64TS4bGNGoSTBSqIyypzkAEf6ITn3K9MXhgRuhEszn/nIJ30akUrtRk+l/ViqIXj8PYy0SRJePrHaCnal82s6BnOls7lXbINSLhWmr7Ih+m8nSYfVdt4WzYGEGoi8hHWkqzva4AyLncHQDeliAWX4mRK9hadD+wwkx47RAo3qoMRScfkzKiuFPWkZ17LkJV2ePGEccg0rnU29647RU9inCJHuAZgt6MCB+1QQ76SvuQUn8aGijcAVBqHuQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_extName__",
+   "permissions": [ "storage", "tabs", "alarms", "scripting" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.8.0"
+}

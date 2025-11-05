@@ -1,0 +1,11 @@
+{
+   "desc": {
+      "message": "한 번의 클릭으로 활성화되는 크롬용 가장 간단한 VPN입니다. 웹 사이트 차단을 해제하고 안전한 VPN 연결로 익명으로 브라우징하세요."
+   },
+   "name": {
+      "message": "clickvpn에서 크롬을 위한 무료 VPN"
+   },
+   "title": {
+      "message": "1clickVPN"
+   }
+}

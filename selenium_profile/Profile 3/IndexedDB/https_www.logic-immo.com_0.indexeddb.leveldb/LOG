@@ -1,0 +1,6 @@
+2025/08/11-20:33:24.008 591c Creating DB C:\Users\surya\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_www.logic-immo.com_0.indexeddb.leveldb since it was missing.
+2025/08/11-20:33:24.012 591c Reusing MANIFEST C:\Users\surya\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_www.logic-immo.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/11-20:33:57.655 591c Level-0 table #5: started
+2025/08/11-20:33:57.657 591c Level-0 table #5: 12163 bytes OK
+2025/08/11-20:33:57.659 591c Delete type=0 #3
+2025/08/11-20:33:57.659 591c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,25 @@
+2025/09/12-15:43:21.533 130 Reusing MANIFEST C:\Users\surya\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_app.roboflow.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/12-15:43:21.534 130 Recovering log #15
+2025/09/12-15:43:21.535 130 Reusing old log C:\Users\surya\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_app.roboflow.com_0.indexeddb.leveldb/000015.log 
+2025/09/12-15:43:21.535 130 Delete type=2 #14
+2025/09/12-15:43:21.566 659c Level-0 table #20: started
+2025/09/12-15:43:21.569 659c Level-0 table #20: 27055 bytes OK
+2025/09/12-15:43:21.570 659c Delete type=0 #15
+2025/09/12-15:43:21.571 dac Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 397 : 1
+2025/09/12-15:43:21.572 dac Compacting 1@0 + 1@1 files
+2025/09/12-15:43:21.575 dac Generated table #21@0: 83 keys, 4343 bytes
+2025/09/12-15:43:21.575 dac Compacted 1@0 + 1@1 files => 4343 bytes
+2025/09/12-15:43:21.576 dac compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/12-15:43:21.577 dac Delete type=2 #20
+2025/09/12-15:43:21.577 130 Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 397 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/12-15:43:54.329 dac Level-0 table #23: started
+2025/09/12-15:43:54.332 dac Level-0 table #23: 6928 bytes OK
+2025/09/12-15:43:54.333 dac Delete type=2 #17
+2025/09/12-15:43:54.334 dac Delete type=0 #19
+2025/09/12-15:43:54.334 8424 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 442 : 1
+2025/09/12-15:43:54.334 8424 Compacting 1@0 + 1@1 files
+2025/09/12-15:43:54.336 8424 Generated table #24@0: 95 keys, 4466 bytes
+2025/09/12-15:43:54.336 8424 Compacted 1@0 + 1@1 files => 4466 bytes
+2025/09/12-15:43:54.337 8424 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/12-15:43:54.337 8424 Delete type=2 #23
+2025/09/12-15:43:54.338 8424 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 442 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)

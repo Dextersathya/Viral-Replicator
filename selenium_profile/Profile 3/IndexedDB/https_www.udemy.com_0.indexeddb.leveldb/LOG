@@ -1,0 +1,6 @@
+2025/08/12-15:19:12.677 5a3c Creating DB C:\Users\surya\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_www.udemy.com_0.indexeddb.leveldb since it was missing.
+2025/08/12-15:19:12.683 5a3c Reusing MANIFEST C:\Users\surya\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_www.udemy.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/12-19:57:35.772 591c Level-0 table #5: started
+2025/08/12-19:57:35.773 591c Level-0 table #5: 3868 bytes OK
+2025/08/12-19:57:35.775 591c Delete type=0 #3
+2025/08/12-19:57:35.775 591c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

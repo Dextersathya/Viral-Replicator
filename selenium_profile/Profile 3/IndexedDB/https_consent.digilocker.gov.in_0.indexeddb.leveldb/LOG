@@ -1,0 +1,6 @@
+2025/07/22-19:40:39.699 4ef0 Creating DB C:\Users\surya\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_consent.digilocker.gov.in_0.indexeddb.leveldb since it was missing.
+2025/07/22-19:40:39.705 4ef0 Reusing MANIFEST C:\Users\surya\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_consent.digilocker.gov.in_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/22-19:40:39.714 4ef8 Level-0 table #5: started
+2025/07/22-19:40:39.717 4ef8 Level-0 table #5: 780 bytes OK
+2025/07/22-19:40:39.719 4ef8 Delete type=0 #3
+2025/07/22-19:40:39.720 4ef8 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

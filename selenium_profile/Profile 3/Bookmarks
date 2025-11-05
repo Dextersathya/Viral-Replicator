@@ -1,0 +1,364 @@
+{
+   "checksum": "4e2397b3d736767c96df545224fbaaf7",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13338017545596809",
+            "date_last_used": "13384938929228892",
+            "guid": "5c1f962a-542e-4595-9a75-2c6221f0ab19",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "WhatsApp",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "date_added": "13340571192980007",
+            "date_last_used": "13401563980031618",
+            "guid": "7dc0c3a8-df60-4058-80de-9619696d365b",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Build an API With Django REST Framework | Full Tutorial | 2023 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=KN0SWxDNmZI"
+         }, {
+            "date_added": "13340737869274608",
+            "date_last_used": "13404197716187044",
+            "guid": "4ed360f0-6884-4e02-bc78-152d83994990",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Tableau Tutorial for Beginners in 20 Minutes | Complete Tableau Training for Beginners | Simplilearn - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=3GT_TLIeCbE"
+         }, {
+            "date_added": "13340911120076186",
+            "date_last_used": "0",
+            "guid": "dfd2f1e5-cd79-48a9-923b-123b09c9de24",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Self learning",
+            "type": "url",
+            "url": "https://lms.simplilearn.com/courses/2738/Business%20Analytics%20with%20Excel/syllabus"
+         }, {
+            "date_added": "13340987690942247",
+            "date_last_used": "13403968984163612",
+            "guid": "2ee3df89-b99f-4a00-a81c-441740b3e53a",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "End-to-End NLP Project | Build a Chatbot in Dialogflow | NLP Tutorial | S3 E2 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=2e5pQqBvGco&t=445s"
+         }, {
+            "date_added": "13390284989837197",
+            "date_last_used": "0",
+            "guid": "b3ab1988-4f94-4017-aaca-2dc0deee3ed4",
+            "id": "10",
+            "name": "",
+            "type": "url",
+            "url": "blob:https://02u1brjn3dj2u37qlbc894r3181hf0ip1ph4c0lgvmsi8g4d0jq7.assets.github.dev/92d54f34-43cc-414e-8ba4-bc87b2a16748"
+         } ],
+         "date_added": "13397666112683834",
+         "date_last_used": "0",
+         "date_modified": "13390284989837197",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13340135658688059",
+            "date_last_used": "0",
+            "guid": "08067b99-b891-4c4a-9444-9689d1efd081",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Learn Modern Javascript (Build and Test Apps) - Full Course | Udemy",
+            "type": "url",
+            "url": "https://www.udemy.com/course/the-complete-javascript-course/?kw=java&src=sac"
+         }, {
+            "date_added": "13347727067058131",
+            "date_last_used": "0",
+            "guid": "b61b7316-bb0e-4b35-8a99-e9cd68a3727c",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Desktop/sms-spam/",
+            "type": "url",
+            "url": "http://localhost:8888/tree/Desktop/sms-spam"
+         }, {
+            "date_added": "13351792534861738",
+            "date_last_used": "0",
+            "guid": "a46f9971-c32d-4095-976a-7a64e24078d1",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "object detection",
+            "type": "url",
+            "url": "https://github.com/Surya-Murali/Real-Time-Object-Detection-With-OpenCV/blob/master/real_time_object_detection.py"
+         }, {
+            "date_added": "13352452046673705",
+            "date_last_used": "0",
+            "guid": "363672d3-c3de-444c-90bd-3de1a46db078",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Hugging Face – The AI community building the future.",
+            "type": "url",
+            "url": "https://huggingface.co/"
+         }, {
+            "date_added": "13352623563955433",
+            "date_last_used": "0",
+            "guid": "d4a07fb8-715b-48bd-96dc-2e7a9dd04fae",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Introduction to Gradio Blocks - Hugging Face NLP Course",
+            "type": "url",
+            "url": "https://huggingface.co/learn/nlp-course/chapter9/7?fw=pt"
+         }, {
+            "date_added": "13352926965444651",
+            "date_last_used": "0",
+            "guid": "2e10c085-2296-47f2-9552-49e503f0fabf",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "NMS Code - Computer Vision Zone",
+            "type": "url",
+            "url": "https://www.computervision.zone/topic/nms-code/"
+         }, {
+            "date_added": "13353228440436144",
+            "date_last_used": "0",
+            "guid": "d185545b-66cf-4091-a15c-42d8b1ca3735",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Acer Aspire 5 Gaming Laptop 13th Gen Intel Core i5 (16 GB RAM/512 GB SSD/NVIDIA RTX 2050 4GB Graphics/Windows 11 Home), A515-58GM 15.6\" Full HD Display, Steel Gray, 1.78 KG : Amazon.in: Electronics",
+            "type": "url",
+            "url": "https://www.amazon.in/Acer-Graphics-Windows-A515-58GM-Display/dp/B0C3HVRCKF/ref=pd_lpo_sccl_1/260-8553388-1775937?pd_rd_w=ztOGI&content-id=amzn1.sym.646ecf30-bd56-461f-a4dc-7f0c041d20b3&pf_rd_p=646ecf30-bd56-461f-a4dc-7f0c041d20b3&pf_rd_r=224RWBJ9N0Q0Z8TP8RHM&pd_rd_wg=dNons&pd_rd_r=86849daf-9fca-4c91-9b87-557e6708f67e&pd_rd_i=B0C81R852K&th=1"
+         }, {
+            "date_added": "13354132691283529",
+            "date_last_used": "0",
+            "guid": "718b79ad-2442-4f37-9c59-e11e9ff71f75",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Chicken Detection/Segmentation - MaskRCNN P 4e085e | Kaggle",
+            "type": "url",
+            "url": "https://www.kaggle.com/code/eugenedavetumagan/chicken-detection-segmentation-maskrcnn-p-4e085e/notebook"
+         }, {
+            "date_added": "13355001952845994",
+            "date_last_used": "0",
+            "guid": "f2588685-c752-4bd5-ab72-68688a692111",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Introduction to Networks -Common Types of Networks",
+            "type": "url",
+            "url": "https://contenthub.netacad.com/itn-dl/1.4.5"
+         }, {
+            "date_added": "13355033976415370",
+            "date_last_used": "0",
+            "guid": "b342e827-3af5-4f4a-92d5-acd9c0c1e77f",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Cisco Skills For All",
+            "type": "url",
+            "url": "https://skillsforall.com/launch?id=dc0847b7-d6fc-4597-bc31-38ddd6b07a2f&tab=curriculum&view=f3686d94-9917-5733-99b2-251dd2117448"
+         }, {
+            "date_added": "13355556413514305",
+            "date_last_used": "0",
+            "guid": "945a64db-43a0-428c-b95a-48b136c7a5fd",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Cow Behavior Tracking - v6 2024-03-06 12:14pm",
+            "type": "url",
+            "url": "https://universe.roboflow.com/cow-detection-identifier/cow-behavior-tracking/dataset/6#"
+         }, {
+            "date_added": "13355935617273395",
+            "date_last_used": "0",
+            "guid": "75da98e1-5e86-416d-820c-09ab0df7942d",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Cow Behavior Tracking - v6 2024-03-06 12:14pm",
+            "type": "url",
+            "url": "https://universe.roboflow.com/cow-detection-identifier/cow-behavior-tracking/dataset/6"
+         }, {
+            "date_added": "13356711361168055",
+            "date_last_used": "0",
+            "guid": "f1909b35-8be0-4451-8df6-d4883a5320f0",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "HackWithInfy Coding Questions 2024 | PrepInsta",
+            "type": "url",
+            "url": "https://prepinsta.com/hackwithinfy/coding/"
+         }, {
+            "date_added": "13357584819684440",
+            "date_last_used": "0",
+            "guid": "d1d1bc93-74dc-4924-9c08-74e491124a4f",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "translation_app · Streamlit",
+            "type": "url",
+            "url": "http://localhost:8501/"
+         }, {
+            "date_added": "13358357556769646",
+            "date_last_used": "0",
+            "guid": "ee9b4825-f864-45bb-92b3-88ef67cafadd",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Comprehensive Tutorials to Ultralytics YOLO - Ultralytics YOLOv8 Docs",
+            "type": "url",
+            "url": "https://docs.ultralytics.com/guides/#real-world-projects"
+         }, {
+            "date_added": "13358459120106048",
+            "date_last_used": "0",
+            "guid": "a8351ffb-9e06-4283-9987-758e37120f2b",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "100+ Python Interview Questions and Answers for 2024",
+            "type": "url",
+            "url": "https://www.turing.com/interview-questions/python"
+         }, {
+            "date_added": "13358543255587550",
+            "date_last_used": "0",
+            "guid": "d379abd3-31e4-47d0-981e-cb881e0e57c8",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Turing Data Analysis Test",
+            "type": "url",
+            "url": "https://www.kaggle.com/code/ahmedxmahmoud/turing-data-analysis-test"
+         }, {
+            "date_added": "13360085800159445",
+            "date_last_used": "0",
+            "guid": "5555025e-b98c-4c57-9bb3-6a549d240958",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Courses",
+            "type": "url",
+            "url": "https://neetcode.io/courses/lessons/python-for-coding-interviews"
+         }, {
+            "date_added": "13360342055885082",
+            "date_last_used": "0",
+            "guid": "29600a10-3e7a-494b-b63d-92601b07a3cb",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "New Tab",
+            "type": "url",
+            "url": "chrome://newtab/"
+         }, {
+            "date_added": "13361468484164934",
+            "date_last_used": "0",
+            "guid": "38a354fc-517a-4ebf-8f90-868b6ba6d301",
+            "id": "30",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Summary - Training | Microsoft Learn",
+            "type": "url",
+            "url": "https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/10-summary#completion"
+         }, {
+            "date_added": "13362291827369441",
+            "date_last_used": "0",
+            "guid": "fe060080-5bac-47b8-9bae-e88cbe5dcf20",
+            "id": "31",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Julius AI | Your AI Data Analyst",
+            "type": "url",
+            "url": "https://julius.ai/chat?id=746cb363-0196-4595-b05d-955fdfddc559"
+         }, {
+            "date_added": "13362568052871607",
+            "date_last_used": "0",
+            "guid": "ccfce585-7eae-40a8-a5d6-149f51636997",
+            "id": "32",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ollama/ollama: Get up and running with Llama 3, Mistral, Gemma, and other large language models.",
+            "type": "url",
+            "url": "https://github.com/ollama/ollama"
+         }, {
+            "date_added": "13366658844683005",
+            "date_last_used": "0",
+            "guid": "67c750fc-c4c2-4439-bb7d-ad23728491c1",
+            "id": "33",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Infosys SP and DSE Coding Questions 2024 | PrepInsta",
+            "type": "url",
+            "url": "https://prepinsta.com/infosys-sp-and-dse/coding-questions/"
+         }, {
+            "date_added": "13377555451693076",
+            "date_last_used": "0",
+            "guid": "f615e706-60a2-4fe5-ac4d-fc9b0f14d5fd",
+            "id": "34",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Capgemini Pseudocode Questions | Set 1 | Company Placement Process",
+            "type": "url",
+            "url": "https://www.prepbytes.com/blog/company-placement-process/capgemini-pseudocode-questions-set-1/"
+         } ],
+         "date_added": "13397666112683834",
+         "date_last_used": "0",
+         "date_modified": "13377555451693076",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13397666112683834",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CnAKUAiIgQISSiAAkgE2CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCS9Cbgh4QAYAES9Cbgh4QAYAKWq2cAh4QAYA6gEMCP3SjccGEID5x8EDEgAqGEpsUGhVT0JGRVhUeXRvc29XZEhrOGc9PUgDEu4BCB0S6QEKHC9OblA1Y3AxN2dBbzZHV1pwZmNnZDZuNGNGZz0SZlo6QURxdEFaeWJKZldkY1ZMd2lHQ0h5M25OQ2t3QXpUMU04ZG9LMzVjSU9rdUQzVU5HeWZhL1dqeG8rYS91alNxZFpoQWxNOUV1S0tTRVZGR1ZJRzBiUlVOOGVVendMYWxTTEE9PRgAIAAoADDR17iPrJKGAzjNp+uN+DFAzafrjfgxShxsd1h1R1MxRnJ0Uk9VZEl6c0VnekxyNUpjTm89WiEiH///tlZQbEl3WmZ1cWRML28zN2tkeDc2b2IyRjVlbz1lAAAAABLuAQggEukBChw1cTBPTmFrV0FMQzQwa2d6VGF2bElHa1E5U2s9EmZaOkFEcXRBWnliSmZXZGNWTHdpR0NIeTNuTkNrd0FvZmI4aWhPV21HSTN5NTVQbmsvNjMwRHkyd3ArSUtYK0ZnK0Mya0IvNnBrdGM4U1d6ZXBadHhZbnVOdjNSUnZpd2JyK0dRPT0YACAAKAAwj5nG34O8jgM4j7Gjs4AyQI+xo7OAMkocRXFoMHViMkRmS2d3WjlkSGpubFRmQmJQV0VJPVohIh////ZIMVFNT0F2RVl3akFYQkswM2tJSzczL0V4YlU9ZcjzP7sS7gEIIRLpAQocbytaNFFZaDgzbUhEMlZPdEZsMnQ0MGdlekhRPRJmWjpBRHF0QVp5YkpmV2RjVkx3aUdDSHkzbk5Da3dBc1dKd2tTYUZFdGNtMGlZbXJETjV4V3crT09GaE0rSm8vSWVqM29rSnRpRXhXaVUwYlNOcUVZUUJ6MmNaQXIzaW5oSHM1QT09GAAgACgAMJSzrv+XyocDOIvA9dGPMkCLwPXRjzJKHHg5U3dyaHVlTGR1WnpxTWFkKy92YTVSZzFFYz1aISIf///7TEVKMEM4ZUR5a29Sbi9FQkVrVEZ2SzlmcWZNPWXUxwNVEu0BCBwS6AEKHHk0L2NPazErT3dYc3puWTZTVU9td2NKRlJDTT0SZlo6QURxdEFaeWJKZldkY1ZMd2lHQ0h5M25OQ2t3QUw4VlprQThqR1lSN1VLY01IZUNjeTBSSVRuZFlFNUY3S3lwbjlZZnpDZlFoQlZ2Y2xVeFpsN0xHb3ArZldyZXN6Vy9vQ3c9PRgAIAAoADD747nVuLyHAzjf2dKT9zFA39nSk/cxShx5aVVhNDA3M09RK3lLQlY5VzNyTEkxVFNodTA9WiAiHv//bHBZM3hIc2JNcE5OY3pQbkhob0lubis1NkowPWUvbp2WEu0BCBoS6AEKHFV0bzFWUnZEYm1PbmVUTEpsWEgyc2RnNG93ND0SZlo6QURxdEFaeWJKZldkY1ZMd2lHQ0h5M25OQ2t3QTBaWEhrVmZGd1FhcEw2QVlKbEpnRVFzYkhvQnZqUDJLaTVHNW01V3Z5a3p3d01xNkxKK0pObExZcmhDNDZDRnZJNjNjbXc9PRgAIAAoADDszqvRxduFAzjqg/6L8TFA6oP+i/ExShxZcFVDL1BNL1ZjRGwwOWI3Q0tiMHNmcEtudHc9WiAiHv/9bmg1clpXL0RsYURYZ3JUbFRJOTErMXNtNGtNPWUZUT/aEu0BCBcS6AEKHFpDVHl0bndDOVpTMzJhVUJpR2QzeTRiTmVZVT0SZlo6QURxdEFaeWJKZldkY1ZMd2lHQ0h5M25OQ2t3QUZrc3drQ3IrL3laeEVBcjhyRm13Nmg5YU82TnBJbEhINmYxYkZQT3V5S1NtZUNuUUVDWXJBck5sd2w4S2VlU1VMTHpKRFE9PRgAIAAoADCsv5jd1qiFAziQpcvK6jFAkKXLyuoxShwzY2FJTC80TUFJL256b0E4eUlKUkpTU0ZnQzg9WiAiHv/oUnJQbURySGZ6Yk4va3M4ZnlkNnNEY0Q0cldzPWXUxwNVEu0BCBkS6AEKHHZpNi9KOGJFVHY1Ti9sczRvUE4yM3hlTGJHVT0SZlo6QURxdEFaeWJKZldkY1ZMd2lHQ0h5M25OQ2t3QWpTeGJIQmI1aWlBa0tjUXlob0N3Umc3RW9mSXNPMzFZRVYwV2wrZllUWlFBL1RUWjdlVFJTeGQ3dFZZTTVWdnJCRE12cUE9PRgAIAAoADDumI2ly9iFAzihjMfb8DFAoYzH2/AxShxxL29QVGpKb200YkVkMkplZThldjVxQ3dYdEE9WiAiHv/6bWlCTnZ4YUxYVDdFemNMY1d6N2FsYWlRY3VVPWWPl4ANEuwBCBIS5wEKHHVySGs5SXJaL1c4bUxSSnNrclFxd05mWXVWbz0SZlo6QURxdEFaeWJKZldkY1ZMd2lHQ0h5M25OQ2t3QVpWcGxIVWtkZnhtZDNRTHI4T2s3MXJHUDdMY25pM1k5TTlwTHNVSTNsdDVLVTQ4bGNadnNmWHU2czEyNEhBVWdwN01ObWc9PRgAIAAoADDemsq30N2EAzjT4v384DFA0+L9/OAxShxkRlAvTk16WGwxakI4UE1tOUhuNGltekExdk09Wh8iHf01OUgzRE45b0pEUlFjbEl4VUwwNjAxU3kxeVE9Zbxo2BkS7AEIDxLnAQocYVQ5Mk51WkZ3ZlhLRWZTYi9vNGhHdU8xVWxnPRJmWjpBRHF0QVp5YkpmV2RjVkx3aUdDSHkzbk5Da3dBQUtxbVdmQzlQeWFmVVVsbHhtZ3Z3cGZVVFBPL25TWlFwQUFDUnZxWFpRRTEvR2pBTXpGYXZqV1JGWXFxczlLeWozd2pUUT09GAAgACgAMMbL9L/asYQDOLP5r63bMUCz+a+t2zFKHDFUbm5IVzBHcmNpMlEzQmlrU3dmbVBBdEdWTT1aHyId7HFmRThJQkdWVUdVOURtdXE3Mjh6ZjUyUFpMMD1lhOF4jhLuAQgfEukBChxBZEJ2TVZkYlhYNXV0T2hHZWFjV05SejcySEE9EmZaOkFEcXRBWnliSmZXZGNWTHdpR0NIeTNuTkNrd0FDZndWVllHSkh0dDkvbjdtZzBoUjRFc0I3a1k5emd0WUx0bDJmc2NGWFZVY0tXeElMb0wyeWFoMm1ENkZkY0pTQmNoQmtBPT0YACAAKAAwk7nW6NnTiAM4qfXHr/8xQKn1x6//MUocZGRLazIyRFh1MSsyTFJwemNVT2d1NXRVejh3PVohIh///+1xdU1rUkM4dUJIZVByem5PMS9BM3FjNE5QTTA9ZbfbcXES7QEIGxLoAQocMEl0VnlTZTF2M001T1cwUjZYWnVIaGwxdUpBPRJmWjpBRHF0QVp5YkpmV2RjVkx3aUdDSHkzbk5Da3dBUUd6U1dEL1J0RXk2MFc3aHoxUFJpSlA1cTR2U1RRU092eDdUZ2ZNRXRHSkZXTThFNGNWU0JoMHFNeEhJU2lXNGxRWmw3UT09GAAgACgAMMWx/oj/3YUDOKOgjbTxMUCjoI208TFKHEV4bGpUdWZIVnNDMS9nQ3piT0tPN2YxSWk2Zz1aICIe//5QWnF4cnYvZ0JtaFU4MHE0bWNzYTRsRnN4bkU9Zbxo2BkS7AEIFBLnAQocdmNoN0JsVitwdnJjWEp3QzVIQnpjcXlBMk9NPRJmWjpBRHF0QVp5YkpmV2RjVkx3aUdDSHkzbk5Da3dBK3Y5dE9wTWNqVkRiY1g2K3R5K1NvVE1XU3NJWFZSNklsSEZyOEs4b0hvR3Z4Q1l2ZnZudHpjdUFFL2lyd0JqL1hJRVN0QT09GAAgACgAMLDT4P3t94QDON/s36rkMUDf7N+q5DFKHDVNV2sxU3cwTEN1UHQ5K0xyUHFxMzMvL1AxWT1aHyId/0VNM3JXMDROVHlocXpuME45Vmd4dEVuYTBKaz1lrdPjIRLtAQgVEugBChxES2ZmZXQvWHlSa2FvVklBK3A0ZmlDY2UvRlU9EmZaOkFEcXRBWnliSmZXZGNWTHdpR0NIeTNuTkNrd0FhMllpMTVaaEtjM1NPMGRMYnE0KzlEdFg0eU9OQjh2bFIreHUxK1VHTTFxZmczdmsrTW5SV3BheGR4T1lob0VnWTNNaGJBPT0YACAAKAAw192tmoiHhQM4yvDuo+YxQMrw7qPmMUocSDJSOFRiRU1KMThZcWFLM2ZOUEVPTkFsaFJNPVogIh7/oi9ESms4d1ZIclhaUWdsbWQzSVBSeFhsVkQ4dz1l9umoDxLrAQgMEuYBChxId1Q1VEpUOFV4TG9CMkR1MnlUVERuMFdvL1E9EmZaOkFEcXRBWnliSmZXZGNWTHdpR0NIeTNuTkNrd0FaRWd5M1ppVDdlbmxHbWVpMlFuSHNaMVJyZTl5YWhyNHczM2FWNWxTUFFidUQ2K3daTlhxZmw3S1NYblp4WXFjcVFsL1NRPT0YACAAKAAwz8yQ95mjgwM4sr/FjskxQLK/xY7JMUocZGxOZTFkRmJQWnROTElnZHlvQzRZeTJFU1RvPVoeIhxic3RGc1c4ZmNqZ2hLbTNiajBGV2hSZ2hXbkE9ZfO7d0kS7AEIExLnAQoccHRmN05OcFBBcnUvV3lESDB1NHplTHZvVVpVPRJmWjpBRHF0QVp5YkpmV2RjVkx3aUdDSHkzbk5Da3dBZXgxcklNRDcrNUcwNHlRUjJtMWpyajRCWTBaaEFLUU5IdDBaRUNDUDdJSjBJaVdhL3hPTTMxSTVNSUNPanczMHpqeExCQT09GAAgACgAMN/78df29oQDOM6kvZvkMUDOpL2b5DFKHG1UNHVkeVhZczY2UWt4aGhWV2NwMU5udHNjWT1aHyId/lplZGpMMmFrK0JVN1RzNWo0RGNKSGpCUUVjOD1lk/pXzBLtAQgYEugBChxBbjFnRVVSR3d0QlR2UmJhamFTUzI2dlFXeEE9EmZaOkFEcXRBWnliSmZXZGNWTHdpR0NIeTNuTkNrd0E4eVgySGZpYkVndC9VTUViVXp1VkxidnBCMWNZbUdjZXBVQkdjc3dpYVVpR002SndHZFR0VWJETzNOb2FmUlU1eUgzRlFRPT0YACABKAEwq6fR2JfbjgM45fuK6+0xQMXT8L+EM0ocMks3L0pGOHBOMkhPVlpxVVZpQTZZQTczZ1E4PVogIh7/9GpzQ0VVM09GZ1lreUFkTW41cWFnSEdNK094OD1lRlEcJRLsAQgREucBChxieFJWamIvZVdhYklpZ1g3UlJzUlQ5UHNZYm89EmZaOkFEcXRBWnliSmZXZGNWTHdpR0NIeTNuTkNrd0FLK1BTOW9VTDVYTDB1SWZxeWpWWmVocDJ1NFZuakZHeU96OWNNeTB0b3BFbXBoQmo0Vko5UEF0YXZhbzZiWEU3aG5RaDl3PT0YACAAKAAw/Pmj66fDhAM49Nbmzd0xQPTW5s3dMUocZXlMNHF6OG8vT2NacGR1Zng0RWVOK2JXbGpNPVofIh37VE9ta1BaKy9UdnhzUld5YVNRLzJBZEdnUlA0PWV1vjVSEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFaenZ4bmN2anNvU1drVVVTdUZlTldjTU8yamhiTXZVYkJIVWhOWEhYYzlTRGtFLzB2aGhzbTh0dTBLVE1VT0s3TlhmV1BWdjM1N215c2dLRnB4V0Rud3gwUXdOOFE9PRgAIAAoADDf66Czz9COAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEuwBCBAS5wEKHEFZUHBpOStJaUJjTXVMN0Znc1BRN1NlZk50VT0SZlo6QURxdEFaeWJKZldkY1ZMd2lHQ0h5M25OQ2t3QXRnUjRXYjllKzRXaVVIY0FDYjJ5K2lXMjVtUmt2L2Z3YktRQnFqWHVpRjBValNzYW5ZSDRhdGZYZ21yNno3MUhQZjJxbVE9PRgAIAAoADDMjMTgxLqEAzjFjYa+3DFAxY2GvtwxShxITDIzODVJYW02emo5QW1WOStseE5YSm1iWVU9Wh8iHfZYWDVmbk1IYWFvS3VZd2Z2OERtcUZvQkl2UDA9ZY0ibVQS7AEIDRLnAQoceEN4RGdpVnlVRW5tUG9QclBNa3pTS2JUajNnPRJmWjpBRHF0QVp5YkpmV2RjVkx3aUdDSHkzbk5Da3dBamJqbjAzYno5QzJlSWw2VTc0MXZOYlBnSkYxN0dMUGhEMUc0SVVXaUQwazA2RXdwQzVEOEJLTFRsOVBJQWJOSU5lUzFrQT09GAAgACgAMI+Zxt+DvI4DOM36jaHYMUDN+o2h2DFKHGdqUjVDOUk0aGIrMDhUV05zTHI4YStFSll5ND1aHyIdsVRIMHlPamZ4OUFCTDV2L2tZYVZFbmtPRFgxbz1lyPM/uxLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWnlOaC9Sa0k0ekQxa3ZDbS9hV2J3Q3VmNUROdWE4cm05WjlVRTVFQzZhR0F6V3BEOW9KeXJUZlppd2VHTTh4a1JKOXVGWmF0OTRZV0hvL2FqdjFyQzYzdlN3QmhRPT0YACAAKAAw3+ugs8/QjgM4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABLrAQgLEuYBChwzQThITldnaGE3dXZJVnd5aVVCc0tyYm1na0U9EmZaOkFEcXRBWnliSmZXZGNWTHdpR0NIeTNuTkNrd0FJQ3VOK3JKZ2orMG10TUdna0dJSXpVbjVVSDRjTmYzSUJNdEV0TkNBQUhmU2M0M0gzOEo1RGtZOTluZHRuYmFQTWJhci9nPT0YACAAKAAwg+SYtqHGgQM4wNnW6qwxQMDZ1uqsMUocdVpNS09ocU1XVzU1em1sa1MzVmpwRnZNZjRVPVoeIhxGWGdUN2s0NUFyMXZpTFZkbmthUDVuUUZuTHM9ZQSi1gcS7AEIBhLnAQocT3dyUEhPdTFQbElsSCtwMUVIOVJuclFWM21jPRJmWjpBRHF0QVp5YkpmV2RjVkx3aUdDSHkzbk5Da3dBek9QUFI5Mjd3Y3JGa3dGTmk2OEtsaFNKS3dkWkhmc1BzTlNYWGZWci9WdnJOMGU4Y2Q5U3lHbk5SQk5SeDZGalU1dWdsdz09GAAgASgBMLT02+GHwo8DOJTNrbquMUCAlv7VkTNKHG1pWTJYelRXL1ZHSk5lcTdmdEdxSnJwcHlNVT1aHyIduGwzN1I5ZlJXYlU5ZGdTdDVVR0g4K0VMM0hUYz1lQ/htgBLsAQgHEucBChxLY2hMUmNTTkxrNEpya201SktqVWJzMFBqdkk9EmZaOkFEcXRBWnliSmZXZGNWTHdpR0NIeTNuTkNrd0FqdFVRR2ozc0RYSnVHNWRWUTVicTNTdlZlTUhrclhTWFI2Vjg1Q09uZEVoSWdnSkR0ZjI5TW85b0FGTm1uUzNWd1g4aGtBPT0YACABKAEw1KKYmNuOkAM429vqia8xQNi97L2bM0oceU85Y3lucDdEd3djZmszT3JNYzYrVzJCTzNzPVofIh3cM0xmTWdoNE4rTWU0ZTlVaWV0Q0ZGb2hrSTdZPWVD+G2AEuwBCAoS5wEKHDRBekhtZjljK3BCNHVMUG5YakxiTEFnNVJ0VT0SZlo6QURxdEFaeWJKZldkY1ZMd2lHQ0h5M25OQ2t3QUZ4RWZLS3d3V3hPbThXay9SVjR4YVlBNHFQTjJaQ1RFRnI1Sm9sM0REZHpERjIxYlN0aTh2aXJIOE9DMXZtK2xPQ0huRHc9PRgAIAAoADD8npuf5vmMAziN+97T5zJAjfve0+cyShxhd3dJWE5kM3A0TzJrTzcxZTlsWi80aGpBT1U9Wh8iHftlUDJNSzFPNzhVSVRtN2tyMXpVaE8yM05UTHM9ZQAAAAAS7QEIFhLoAQocWWpud2tPUkp1REVJb1JVaXdQTE1OVTFSemNzPRJmWjpBRHF0QVp5YkpmV2RjVkx3aUdDSHkzbk5Da3dBNndEYkphdHJpcVhrWjNwa01Na1dxSlB5TE5WTmtxbC9rV2d3emxDOFYxWHFkTVpCVExQb0FaY2toRzNQbmY3V3hEY0NuZz09GAAgACgAMPuP9e2MkoUDOPnR19jnMUD50dfY5zFKHEVVNlRwQ0lJbWFuVW56Y3dUMmJEVzVnVmFQaz1aICIe/9FqZnBhT3BqaVJvMkpZcEhFMU1kS0I2cVk4WUE9ZfbpqA8S7gEIHhLpAQocS2xUMi85dUtXQ3ZLb0tGMCtPK3FacUVNcnNBPRJmWjpBRHF0QVp5YkpmV2RjVkx3aUdDSHkzbk5Da3dBVzJMWTNnMUxNdjdkUnVCcExPMTdvaE1KOWFzQndXQUpGTThLdnE2Q0RVWlNXYWp0bFlXWWYrZ1pZMVYrT3V4RnVWd0I1dz09GAAgACgAMJj4oLKQs4YDOMWE+6b8MUDFhPum/DFKHFdHOEtJMStYWU1PWkdySmNFaE9ZZXp5VzRFST1aISIf///bd1RxM283UWU1ZklRbWc1bzNkWkU4YmRoUGJBPWWnHNIZEuwBCAgS5wEKHDBPSE02M2FZWWxJUDZ6VFVZaWlNbERjdHhzYz0SZlo6QURxdEFaeWJKZldkY1ZMd2lHQ0h5M25OQ2t3QUxpRkVQdm1XY0ZobHdTVHU2V1M0eGpUN2dLUzZiUkdBSzEydXFQK1ROYXl6aXJ1RlF0NStVcjlUOVpYZUE5cjNpNmdzVkE9PRgAIAAoADDhldXN9+uGAzjMjbncrzFAzI253K8xShxWNDQybjBuQmVscVlCbHhBLzBIeUovUXgxUzg9Wh8iHe4vdnVNYXpsSE9VczdoeEhlNlZ3ZDJ0WEhmcm89ZYa99CIS7AEIDhLnAQocdWNSUFhHVGE3UGpiQ0hPTE5xSUlTUmt3SmtVPRJmWjpBRHF0QVp5YkpmV2RjVkx3aUdDSHkzbk5Da3dBVHhmWjYwWEpDNlkxZmU3Ny9sRFFaK1U4dzJOWVFmbFJVZGpwc2Y4dnlJbGtraElSR2RkTzVTLzg5eTY0VjkrWTd0UVpRUT09GAAgACgAMLmysMrbrIQDONGuy9vaMUDRrsvb2jFKHE1QajNPd1ErbEZVMnRQNk44UHZlaVFRcGhEST1aHyId2C84bVBvc0FweXR6emxubWdrcE80Q08zRGdubz1lhOF4jhKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWnp2bFVOc3ZIRjE0QmlEeU92eUE5UnJ1TXF1Q1Vqa3BMMVRZaHg5R3RJSGs0WWJlZ0wyTnVzSkZPUUtxOXlRS095OGUvY0YYACAAKAAw3+ugs8/QjgM4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABLrAQgFEuYBChwxamIrYVVnVU1mblc3aGdHTXBJV0paR1NwUWc9EmZaOkFEcXRBWnliSmZXZGNWTHdpR0NIeTNuTkNrd0FLajdxQVJUU3NQVFFoRkxxcEQ2b3I4UmRUUVV6elp6MktyZE90QjVKOXphaFpPRWlHQ20wQlFoYitQR0dvbElsZ0dkUnJBPT0YACACKAIwoLXdwIaIkAM4/arX+KQxQMmU2tCaM0ocMGk3RlpNR2JwOUkzdEk5dUNqd3lLQmdLLzhBPVoeIhxwVkxTS0VJSzJ3eW16YTNRVGNOeWlxQTF5WXM9ZQKXAesS7gEIIhLpAQocSFZSb08wdTlNc3A2SXVsZkFMRlNhRDJUaWs0PRJmWjpBRHF0QVp5YkpmV2RjVkx3aUdDSHkzbk5Da3dBRW9wcVZjVC9MVTFEOWxXV0FQY1dOdUZ3bFJqTXp4dVZILzh6VkZjTnFFMEVHRUduK0pzTWk3ZTBuc1kzaXN4dmN4bzJKdz09GAAgACgAMOb39IGph4oDOK3O6Z24MkCtzumduDJKHG5yU2Y3ejZrVlM5RFVOOVluQXBGVjdEbjByQT1aISIf///9S01zbTZ6VnVkMDBSU2NnUTMrMHYxQkp6cVpzPWUAAAAAEuwBCAkS5wEKHFl4d2xiQ0lNTzl3SzM4ZWNEa1B5ZmpDcUlpST0SZlo6QURxdEFaeWJKZldkY1ZMd2lHQ0h5M25OQ2t3QXhJdUVZeFAxUXdtbVg3c2xxa1M1aTNDb0lzV3BjZnVSVXhsMHBXTGNrVTVOcjZCRXhtc2ZXc1lxWmdlanJobkZIcTJMdmc9PRgAIAAoADDLgdup2K2JAzi/z/qAsDFAv8/6gLAxShwwYngyb2NaclJRUHNHeUZ4ZGJyUG9tNk5oaHM9Wh8iHfdjS2tTbC9YVG9VTWp5Situc0xzQXY5M2srR2M9Zf2cjEowATgA",
+   "version": 1
+}

@@ -1,0 +1,28 @@
+2025/09/12-13:02:54.796 36c0 Reusing MANIFEST C:\Users\surya\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_app.roboflow.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/12-13:02:54.797 36c0 Recovering log #6
+2025/09/12-13:02:54.797 36c0 Reusing old log C:\Users\surya\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_app.roboflow.com_0.indexeddb.leveldb/000006.log 
+2025/09/12-13:02:55.896 dd0 Level-0 table #11: started
+2025/09/12-13:02:55.899 dd0 Level-0 table #11: 1042 bytes OK
+2025/09/12-13:02:55.900 dd0 Delete type=0 #6
+2025/09/12-13:02:55.900 36c0 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/12-13:02:58.022 dd0 Level-0 table #13: started
+2025/09/12-13:02:58.024 dd0 Level-0 table #13: 6910 bytes OK
+2025/09/12-13:02:58.027 dd0 Delete type=0 #10
+2025/09/12-13:02:58.027 36c0 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 223 : 1
+2025/09/12-13:02:58.027 36c0 Compacting 1@0 + 1@1 files
+2025/09/12-13:02:58.029 36c0 Generated table #14@0: 38 keys, 3694 bytes
+2025/09/12-13:02:58.029 36c0 Compacted 1@0 + 1@1 files => 3694 bytes
+2025/09/12-13:02:58.030 36c0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/12-13:02:58.030 36c0 Delete type=2 #13
+2025/09/12-13:02:58.031 36c0 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 223 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/12-13:03:59.648 dd0 Level-0 table #16: started
+2025/09/12-13:03:59.650 dd0 Level-0 table #16: 8048 bytes OK
+2025/09/12-13:03:59.651 dd0 Delete type=2 #11
+2025/09/12-13:03:59.651 dd0 Delete type=0 #12
+2025/09/12-13:03:59.652 36c0 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 280 : 1
+2025/09/12-13:03:59.652 36c0 Compacting 1@0 + 1@1 files
+2025/09/12-13:03:59.654 36c0 Generated table #17@0: 54 keys, 4061 bytes
+2025/09/12-13:03:59.654 36c0 Compacted 1@0 + 1@1 files => 4061 bytes
+2025/09/12-13:03:59.654 36c0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/12-13:03:59.655 36c0 Delete type=2 #16
+2025/09/12-13:03:59.655 36c0 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 280 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

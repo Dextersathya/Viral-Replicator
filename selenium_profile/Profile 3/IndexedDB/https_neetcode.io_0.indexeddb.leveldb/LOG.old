@@ -1,0 +1,35 @@
+2025/09/13-10:18:35.689 4818 Reusing MANIFEST C:\Users\surya\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_neetcode.io_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/13-10:18:35.691 4818 Recovering log #59
+2025/09/13-10:18:35.691 4818 Reusing old log C:\Users\surya\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_neetcode.io_0.indexeddb.leveldb/000059.log 
+2025/09/13-10:18:35.700 4848 Level-0 table #64: started
+2025/09/13-10:18:35.702 4848 Level-0 table #64: 829 bytes OK
+2025/09/13-10:18:35.704 4848 Delete type=0 #59
+2025/09/13-10:18:35.704 483c Manual compaction at level-0 from '\x00\x16\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/13-10:18:35.971 4848 Level-0 table #66: started
+2025/09/13-10:18:35.973 4848 Level-0 table #66: 2909 bytes OK
+2025/09/13-10:18:35.974 4848 Delete type=0 #63
+2025/09/13-10:18:35.975 4848 Manual compaction at level-0 from '\x00\x17\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at '\x00\x17\x00\x00\x05' @ 1220 : 1
+2025/09/13-10:18:35.975 4848 Compacting 1@0 + 1@1 files
+2025/09/13-10:18:35.977 4848 Generated table #67@0: 31 keys, 1428 bytes
+2025/09/13-10:18:35.977 4848 Compacted 1@0 + 1@1 files => 1428 bytes
+2025/09/13-10:18:35.981 4848 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/13-10:18:35.982 4848 Delete type=2 #66
+2025/09/13-10:18:35.982 4838 Manual compaction at level-0 from '\x00\x17\x00\x00\x05' @ 1220 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/13-10:18:38.316 4838 Level-0 table #69: started
+2025/09/13-10:18:38.318 4838 Level-0 table #69: 10985 bytes OK
+2025/09/13-10:18:38.320 4838 Delete type=2 #64
+2025/09/13-10:18:38.320 4838 Delete type=0 #65
+2025/09/13-10:18:38.321 4808 Manual compaction at level-0 from '\x00\x18\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at '\x00\x18\x00\x00\x05' @ 1335 : 1
+2025/09/13-10:18:38.321 4808 Compacting 1@0 + 1@1 files
+2025/09/13-10:18:38.323 4808 Generated table #70@0: 72 keys, 5188 bytes
+2025/09/13-10:18:38.323 4808 Compacted 1@0 + 1@1 files => 5188 bytes
+2025/09/13-10:18:38.324 4808 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/13-10:18:38.325 4808 Delete type=2 #69
+2025/09/13-10:18:38.325 4808 Manual compaction at level-0 from '\x00\x18\x00\x00\x05' @ 1335 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/13-10:19:57.306 4818 Compacting 1@1 + 1@2 files
+2025/09/13-10:19:57.324 4818 Generated table #71@1: 54 keys, 5129 bytes
+2025/09/13-10:19:57.324 4818 Compacted 1@1 + 1@2 files => 5129 bytes
+2025/09/13-10:19:57.328 4818 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/13-10:19:57.329 4818 Delete type=2 #61
+2025/09/13-10:19:57.329 4818 Delete type=2 #67
+2025/09/13-10:19:57.329 4818 Delete type=2 #70

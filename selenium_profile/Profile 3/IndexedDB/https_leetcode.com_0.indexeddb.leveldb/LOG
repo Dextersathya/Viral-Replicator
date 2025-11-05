@@ -1,0 +1,7 @@
+2025/09/14-11:00:33.724 2cec Reusing MANIFEST C:\Users\surya\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_leetcode.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/14-11:00:33.724 2cec Recovering log #3
+2025/09/14-11:00:33.725 2cec Reusing old log C:\Users\surya\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_leetcode.com_0.indexeddb.leveldb/000003.log 
+2025/09/14-11:47:54.057 2898 Level-0 table #5: started
+2025/09/14-11:47:54.059 2898 Level-0 table #5: 9654 bytes OK
+2025/09/14-11:47:54.061 2898 Delete type=0 #3
+2025/09/14-11:47:54.061 2898 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

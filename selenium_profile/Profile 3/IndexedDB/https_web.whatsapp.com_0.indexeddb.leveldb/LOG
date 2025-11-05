@@ -1,0 +1,22 @@
+2025/10/14-10:34:39.958 3c08 Reusing MANIFEST C:\Users\surya\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/14-10:34:39.959 3c08 Recovering log #84
+2025/10/14-10:34:39.966 3c08 Reusing old log C:\Users\surya\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000084.log 
+2025/10/14-10:35:11.692 1238 Level-0 table #89: started
+2025/10/14-10:35:11.696 1238 Level-0 table #89: 242155 bytes OK
+2025/10/14-10:35:11.697 1238 Delete type=0 #84
+2025/10/14-10:35:11.698 1238 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00&\x00\x00\xc8\x0d\x00l\x00o\x00c\x00a\x00l\x00_\x00s\x00t\x00o\x00r\x00a\x00g\x00e' @ 14388 : 1
+2025/10/14-10:35:11.698 1238 Compacting 1@0 + 1@1 files
+2025/10/14-10:35:11.704 1238 Generated table #90@0: 7376 keys, 125607 bytes
+2025/10/14-10:35:11.704 1238 Compacted 1@0 + 1@1 files => 125607 bytes
+2025/10/14-10:35:11.704 1238 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/10/14-10:35:11.705 1238 Delete type=2 #86
+2025/10/14-10:35:11.705 1238 Delete type=2 #89
+2025/10/14-10:35:11.705 1238 Manual compaction at level-0 from '\x00&\x00\x00\xc8\x0d\x00l\x00o\x00c\x00a\x00l\x00_\x00s\x00t\x00o\x00r\x00a\x00g\x00e' @ 14388 : 1 .. (end); will stop at (end)
+2025/10/14-10:35:11.705 1238 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00&\x00\x00\xc8\x0d\x00l\x00o\x00c\x00a\x00l\x00_\x00s\x00t\x00o\x00r\x00a\x00g\x00e' @ 14388 : 1
+2025/10/14-10:35:11.705 1238 Compacting 1@1 + 1@2 files
+2025/10/14-10:35:11.709 1238 Generated table #91@1: 3270 keys, 92378 bytes
+2025/10/14-10:35:11.709 1238 Compacted 1@1 + 1@2 files => 92378 bytes
+2025/10/14-10:35:11.710 1238 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/10/14-10:35:11.710 1238 Delete type=2 #51
+2025/10/14-10:35:11.710 1238 Delete type=2 #90
+2025/10/14-10:35:11.711 1238 Manual compaction at level-1 from '\x00&\x00\x00\xc8\x0d\x00l\x00o\x00c\x00a\x00l\x00_\x00s\x00t\x00o\x00r\x00a\x00g\x00e' @ 14388 : 1 .. (end); will stop at (end)
